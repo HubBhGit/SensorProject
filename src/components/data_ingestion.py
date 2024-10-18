@@ -80,3 +80,4 @@ class DataIngestion:
             raise CustomException(e,sys) from e
 
         
+

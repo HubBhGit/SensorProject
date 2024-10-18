@@ -33,7 +33,7 @@ class ModelTrainerConfig:
 
 class ModelTrainer:
     def __init__(self):
-         
+       
 
 
         self.model_trainer_config = ModelTrainerConfig()
