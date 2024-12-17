@@ -8,23 +8,23 @@ This project implements an end-to-end IC Sensor Fault Detection pipeline based o
 
 ### Sensor Fault Detection High Level Flow
 
-![App Screenshot](F:\SensorMLproject\images\Sensor Fault Detection High Level Flow.png)
+![App Screenshot](images\Sensor Fault Detection High Level Flow.png)
 
 ### Data Transformation code flow
 
-![App Screenshot](F:\SensorMLproject\images\data Transformation code flow.png)
+![App Screenshot](images\data Transformation code flow.png)
 
 ### Model Trainer code flow
 
-![App Screenshot](F:\SensorMLproject\images\Model Trainer code flow.png)
+![App Screenshot](images\Model Trainer code flow.png)
 
 ### Training Pipeline code flow 
 
-![App Screenshot](F:\SensorMLproject\images\Training Pipeline code flow.png)
+![App Screenshot](images\Training Pipeline code flow.png)
 
 ### Prediction pipeline code flow
 
-![App Screenshot](F:\SensorMLproject\images\prediction pipeline code flow.png)
+![App Screenshot](images\prediction pipeline code flow.png)
 
 
 ### Technologies Used
